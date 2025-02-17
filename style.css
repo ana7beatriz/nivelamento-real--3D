@@ -1,0 +1,57 @@
+body {background-color:rgb(147, 206, 255)
+}
+
+h1 {text-align: center;
+    border-style: double;
+    border-width: 20px;
+    border-color: black;
+    font-size: 570%;
+     color:darkred;}
+
+h2 {text-align: center;
+  font-size: 450%;
+  color: purple;
+}
+
+#ima1 {width: 30%;
+    margin-left: 35%;
+}
+
+
+
+#ima2 {width: 30%;
+     margin-left: 35%;
+     
+}
+
+h3{text-align: center;
+    font-size: 200%;
+    color: black;
+}
+
+h4{ text-align: center;
+  font-size: 250%;
+  color: blue;
+}
+
+
+h5{ text-align: center;
+    font-size: 160%;
+    color: black;
+
+}
+
+h6 { text-align: center;
+    font-size: 200%;
+    text-decoration: underline;
+   color: rgb(4, 121, 43);
+}
+
+
+h7 { text-align: end;
+    margin-top: 10%;
+    margin-left: 93%;
+  font-size:150% ;
+  color: rgb(196, 4, 170);
+}
+
