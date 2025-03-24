@@ -1,31 +1,37 @@
-body {background-color:rgb(147, 206, 255)
+body {
+  background-color:rgb(147, 206, 255)
 }
 
-h1 {text-align: center;
+h1 {
+  text-align: center;
     border-style: double;
     border-width: 20px;
     border-color: black;
     font-size: 570%;
      color:darkred;}
 
-h2 {text-align: center;
+h2 {
+  text-align: center;
   font-size: 450%;
   color: purple;
   
 }
 
-#ima1 {width: 30%;
+#ima1 {
+  width: 30%;
     margin-left: 35%;
 }
 
 
 
-#ima2 {width: 30%;
+#ima2 {
+     width: 30%;
      margin-left: 35%;
      
 }
 
-h3{text-align: center;
+h3{
+  text-align: center;
     font-size: 200%;
     color: black;
 }
@@ -38,19 +44,22 @@ h4{
 
 
 
-h5{ text-align: center;
+h5{ 
+  text-align: center;
     font-size: 200%;
     color:white;
 
 }
 
 
-h6{ text-align: center;
+h6{
+   text-align: center;
   font-size: 250%;
   color: rgb(0, 47, 255);
 }
 
-h7 { text-align: end;
+h7 {
+   text-align: end;
     margin-top: 10%;
     margin-left: 90%;
   font-size:150% ;
