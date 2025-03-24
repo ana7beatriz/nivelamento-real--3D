@@ -30,9 +30,10 @@ h3{text-align: center;
     color: black;
 }
 
-h6{ text-align: center;
-  font-size: 250%;
-  color: blue;
+h4{
+  text-align: center;
+  font-size: 200%;
+  color: black;
 }
 
 
@@ -43,12 +44,11 @@ h5{ text-align: center;
 
 }
 
-h4{
-  text-align: center;
-  font-size: 200%;
-  color: black;
-}
 
+h6{ text-align: center;
+  font-size: 250%;
+  color: blue;
+}
 
 h7 { text-align: end;
     margin-top: 10%;
